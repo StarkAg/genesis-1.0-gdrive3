@@ -1,10 +1,10 @@
-# GDrive3.0 - Decentralized File Storage on Blockchain
+# Genesis 1.0 - GDrive3.0: Decentralized File Storage on Blockchain
 
 A decentralized file storage and sharing platform built on Ethereum blockchain using IPFS for storage and Solidity smart contracts for access control.
 
 ## 🚀 Project Overview
 
-GDrive3.0 is a blockchain-based alternative to traditional cloud storage services like Google Drive. It enables users to upload files (images) to IPFS (InterPlanetary File System) and manage access control through Ethereum smart contracts, ensuring true decentralization and user ownership of data.
+Genesis 1.0 - GDrive3.0 is a blockchain-based alternative to traditional cloud storage services like Google Drive. It enables users to upload files (images) to IPFS (InterPlanetary File System) and manage access control through Ethereum smart contracts, ensuring true decentralization and user ownership of data.
 
 ## ✨ Key Features
 
@@ -36,8 +36,8 @@ GDrive3.0 is a blockchain-based alternative to traditional cloud storage service
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd GDrive3.0
+git clone https://github.com/StarkAg/decentralized-gdrive.git
+cd "Genesis 1.0 - GDrive3.0"
 ```
 
 ### 2. Install Hardhat Dependencies
@@ -139,7 +139,7 @@ The application will open at `http://localhost:3000`
 ## 🏗️ Project Structure
 
 ```
-GDrive3.0/
+Genesis 1.0 - GDrive3.0/
 ├── contracts/          # Solidity smart contracts
 ├── scripts/           # Deployment scripts
 ├── client/            # React frontend application
@@ -181,6 +181,13 @@ npx hardhat coverage
 - **English**: [Decentralize Google Drive](https://youtu.be/M-KRLlHG_zs?si=rD7I-fH-P8kGiwwf)
 - **Hindi**: [Decentralize Google Drive](https://youtu.be/fghqq3-P3x0?si=CVMpHFTW3-fa3R3A)
 
+## 🎯 Hackathon Details
+
+- **Event**: Genesis 1.0 Hackathon
+- **Project**: GDrive3.0 - Decentralized File Storage
+- **Category**: Blockchain, Web3
+- **Status**: Completed
+
 ## 🚀 Deployment
 
 ### Smart Contract Deployment
@@ -214,7 +221,7 @@ This project is part of a hackathon submission. All rights reserved.
 
 ## 👥 Authors
 
-- Developed as part of GDrive3.0 hackathon project
+- Developed as part of Genesis 1.0 hackathon project
 
 ## 🙏 Acknowledgments
 
@@ -222,13 +229,6 @@ This project is part of a hackathon submission. All rights reserved.
 - Pinata for IPFS pinning service
 - Hardhat for development framework
 - Ethereum community
-
-## 📧 Support
-
-For issues or questions:
-- Check existing issues in the repository
-- Create a new issue with detailed description
-- Refer to documentation
 
 ---
 
